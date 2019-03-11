@@ -6,4 +6,4 @@ My first Python project, focused on the simulation of a medical testing.
 Functions include changing initial + maximum virus population, clearance chance, maximum birth probability, days of simulation, and whether the patient takes medicine (named Guttagonal). 
 
 ### Screenshot
-![alt text](DefaultScreen.png "Default Screen")
+![alt text](Screenshot (142).png "Python Interdisciplinary Project Screenshot")
